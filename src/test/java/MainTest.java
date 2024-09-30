@@ -79,7 +79,6 @@ public class MainTest {
         hamburger.addHamburgerAddition3("test", 3);
         hamburger.itemizeHamburger();
         assertEquals(hamburger.getPrice(), 13);
-
     }
 
     @DisplayName("Deluxe Burger sınıf değişkenleri doğru değerlere sahip mi?")
